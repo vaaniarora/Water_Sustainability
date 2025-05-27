@@ -1,18 +1,18 @@
-Cooling System,MinPUE,MaxPUE,AvgPUE,MinWUE,MaxWUE,AvgWUE
-Direct Expansion (Small),1.65734,2.53475,2.05261,0.00781,0.10937,0.05859
-Air-Cooled Chiller (Small),1.53716,2.52317,1.98456,0.01172,0.10937,0.06250
-Water-Cooled Chiller (Small),1.44015,1.96429,1.69643,2.34375,4.10938,3.21484
-Direct Expansion (Midsize),1.43436,2.34363,1.85425,0.00391,0.10937,0.05859
-Air-Cooled Chiller (Midsize),1.39382,2.32191,1.82819,0.00781,0.10937,0.05859
-Dry Cooler (Air-Cooled Chiller) (Midsize),1.23166,1.99035,1.58639,0.00391,0.10937,0.06250
-Airside Economizer (Air-Cooled Chiller) (Midsize),1.21863,1.94402,1.57770,0.00000,0.07813,0.03125
-Water-Cooled Chiller with Airside Economizer (Midsize),1.28958,1.76448,1.52124,2.15625,3.67188,2.89062
-Airside Economizer (Water-Cooled Chiller) (Midsize),1.21863,1.69064,1.44595,0.29688,2.34375,1.31641
-Waterside Economizer (Water-Cooled Chiller) (Midsize),1.18243,1.58784,1.37500,1.95703,3.17188,2.48828
-Dry Cooler with Adiabatic Assist (Air-Cooled Chiller) (Large-scale),1.05792,1.34459,1.19836,0.00000,0.57422,0.23438
-Airside Economizer & Adiabatic Cooling (Air-Cooled Chiller) (Large-scale),1.01737,1.33012,1.16795,0.00000,0.04687,0.01563
-Airside Economizer & Adiabatic Cooling (Water-Cooled Chiller) (Large-scale),1.01158,1.27220,1.14334,0.00000,1.55078,0.42188
-Waterside Economizer & Adiabatic Cooling (Water-Cooled Chiller) (Large-scale),1.03041,1.22153,1.11583,1.72266,2.76562,2.17969
-IT Liquid Cooling: Waterside Economizer (Water-Cooled Chiller) (Large-scale),1.01448,1.25193,1.13176,1.63281,2.46875,1.96484
-IT Liquid Cooling: Dry Cooler & Adiabitic Assist (Air-Cooled Chiller) (Large-scale),1.02896,1.14768,1.09266,0.00000,0.31250,0.13672
-IT Liquid Cooling: Dry Cooler (Air-Cooled Chiller) (Large-scale),1.02172,1.16216,1.09266,0.00000,0.00000,0.00000
+Cooling System,Size,MinPUE,MaxPUE,AvgPUE,MinWUE,MaxWUE,AvgWUE
+Direct Expansion,Small,1.65734,2.53475,2.05261,0.00781,0.10937,0.05859
+Air-Cooled Chiller,Small,1.53716,2.52317,1.98456,0.01172,0.10937,0.06250
+Water-Cooled Chiller,Small,1.44015,1.96429,1.69643,2.34375,4.10938,3.21484
+Direct Expansion,Midsize,1.43436,2.34363,1.85425,0.00391,0.10937,0.05859
+Air-Cooled Chiller,Midsize,1.39382,2.32191,1.82819,0.00781,0.10937,0.05859
+Dry Cooler (Air-Cooled Chiller),Midsize,1.23166,1.99035,1.58639,0.00391,0.10937,0.06250
+Airside Economizer (Air-Cooled Chiller),Midsize,1.21863,1.94402,1.57770,0.00000,0.07813,0.03125
+Water-Cooled Chiller with Airside Economizer,Midsize,1.28958,1.76448,1.52124,2.15625,3.67188,2.89062
+Airside Economizer (Water-Cooled Chiller),Midsize,1.21863,1.69064,1.44595,0.29688,2.34375,1.31641
+Waterside Economizer (Water-Cooled Chiller),Midsize,1.18243,1.58784,1.37500,1.95703,3.17188,2.48828
+Dry Cooler with Adiabatic Assist (Air-Cooled Chiller),Large-scale,1.05792,1.34459,1.19836,0.00000,0.57422,0.23438
+Airside Economizer & Adiabatic Cooling (Air-Cooled Chiller),Large-scale,1.01737,1.33012,1.16795,0.00000,0.04687,0.01563
+Airside Economizer & Adiabatic Cooling (Water-Cooled Chiller),Large-scale,1.01158,1.27220,1.14334,0.00000,1.55078,0.42188
+Waterside Economizer & Adiabatic Cooling (Water-Cooled Chiller),Large-scale,1.03041,1.22153,1.11583,1.72266,2.76562,2.17969
+IT Liquid Cooling: Waterside Economizer (Water-Cooled Chiller),Large-scale,1.01448,1.25193,1.13176,1.63281,2.46875,1.96484
+IT Liquid Cooling: Dry Cooler & Adiabitic Assist (Air-Cooled Chiller),Large-scale,1.02896,1.14768,1.09266,0.00000,0.31250,0.13672
+IT Liquid Cooling: Dry Cooler (Air-Cooled Chiller),Large-scale,1.02172,1.16216,1.09266,0.00000,0.00000,0.00000
