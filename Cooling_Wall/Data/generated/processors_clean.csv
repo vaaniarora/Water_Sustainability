@@ -1,0 +1,646 @@
+product,vendor,date,tdp_W,group,source,kind,verify
+Meta MTIA 300,Meta,2026-03-11,800.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Amazon Trainium3,Amazon AWS,2025-12-02,700.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Google TPU v7 Ironwood,Google,2025-11-06,960.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA GB300 (Blackwell Ultra),NVIDIA,2025-08-22,1400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA B300 (Blackwell Ultra),NVIDIA,2025-08-22,1100.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+AMD Instinct MI355X,AMD,2025-06-12,1400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+AMD Instinct MI350X,AMD,2025-06-12,1000.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA GB200,NVIDIA,2025-02-15,1200.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Amazon Trainium2,Amazon AWS,2024-12-03,500.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA H200 SXM,NVIDIA,2024-11-18,700.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA B100,NVIDIA,2024-11-15,700.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA B200,NVIDIA,2024-11-15,1000.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Cambricon Siyuan 590,Cambricon,2024-10-31,200.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Huawei Ascend 910C,Huawei,2024-10-15,700.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+AMD Instinct MI325X,AMD,2024-10-10,1000.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Intel Habana Gaudi3,Intel,2024-09-24,900.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Maia 100 (M100),Microsoft,2024-08-27,500.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Google TPU v6e Trillium,Google,2024-05-14,380.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Meta MTIA v2 (MTIA 200),Meta,2024-04-10,90.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA H100 NVL,NVIDIA,2024-03-14,400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+MTT S4000,Moore Threads (Tencent),2023-12-19,450.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Google TPU v5p,Google,2023-12-06,540.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+AMD Instinct MI300X,AMD,2023-12-06,750.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+AMD Radeon Instinct MI308X,AMD,2023-12-06,750.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA HGX H20,NVIDIA,2023-11-09,400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA L20 PCle,NVIDIA,2023-09-16,275.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Google TPU v5e,Google,2023-08-29,225.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA GH200,NVIDIA,2023-08-08,700.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+MetaX MXC500 (PCIe),MetaX,2023-06-13,350.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Meta MTIA v1 (MTIA 100),Meta,2023-05-18,25.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA H800 SXM5,NVIDIA,2023-03-21,700.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA GH100,NVIDIA,2023-03-21,700.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA L4,NVIDIA,2023-03-21,72.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Intel Data Center GPU Max 1100,Intel,2023-01-10,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Intel Data Center GPU Max 1350,Intel,2023-01-10,450.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Intel Data Center GPU Max 1550,Intel,2023-01-10,600.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+AMD Radeon Instinct MI300,AMD,2023-01-04,600.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+AMD Instinct MI300A,AMD,2023-01-04,760.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Baidu Kunlun RG800,Kunlunxin Baidu,2023-01-01,130.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+MetaX MXC500 (OAM),MetaX,2023-01-01,450.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A800 PCIe 40 GB,NVIDIA,2022-11-08,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A800 PCIe 80 GB,NVIDIA,2022-11-03,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+GroqChip LPU v1,,2022-10-15,215.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA L40,NVIDIA,2022-10-13,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA H100 PCIe,NVIDIA,2022-09-20,350.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA H100 SXM5 80GB,NVIDIA,2022-09-20,700.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Biren BR100,Biren,2022-08-22,550.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A800 SXM,NVIDIA,2022-08-11,400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+MT-3000,National University of Defense Technology,2022-07-01,256.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Intel Habana Gaudi2,Intel,2022-05-10,600.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Cambricon MLU370-X8,Cambricon,2022-03-21,250.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Huawei Ascend 910B,Huawei,2022-03-17,400.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun R100 (75W),Kunlunxin Baidu,2022-01-01,75.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun R100 (100W),Kunlunxin Baidu,2022-01-01,100.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun R200 (150W),Kunlunxin Baidu,2022-01-01,150.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun R200-8F (160W),Kunlunxin Baidu,2022-01-01,160.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+AMD Radeon Instinct MI250X,AMD,2021-11-08,500.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Cambricon MLU370-S4/S8,Cambricon,2021-11-03,75.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Cambricon MLU370-X4,Cambricon,2021-11-03,150.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Cambricon MLU370-S8,Cambricon,2021-11-03,75.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Cambricon MLU370-S4,Cambricon,2021-11-03,75.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Tesla D1 Dojo,Tesla,2021-08-21,400.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun II,Kunlunxin Baidu,2021-08-18,150.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Shensuan-1,Hygon,2021-07-01,350.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Google TPU v4,Google,2021-05-20,340.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA A10G,NVIDIA,2021-04-12,150.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A10 PCIe,NVIDIA,2021-04-12,150.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Tianshu Zhixin Tiangai 100 (BI-V100),Iluvatar CoreX,2021-03-31,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Cambricon MLU290-M5,Cambricon,2021-01-21,350.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA A100 SXM4 80 GB,NVIDIA,2020-11-16,400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A40 PCIe,NVIDIA,2020-10-05,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A100 PCIe,NVIDIA,2020-06-22,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A100 SXM4 40 GB,NVIDIA,2020-05-14,400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA A100,NVIDIA,2020-03-01,400.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Google TPU v4i,Google,2020-01-01,175.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun K200,Kunlunxin Baidu,2020-01-01,150.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA Tesla V100S PCIe 32 GB,NVIDIA,2019-11-26,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+T-Head Hanguang 800,Alibaba,2019-09-25,276.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Huawei Ascend 910A,Huawei,2019-08-23,310.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Huawei Ascend 910,Huawei,2019-08-23,310.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Huawei Ascend 910 (320 TFLOPS),Huawei,2019-08-23,310.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Cambricon MLU270-F4,Cambricon,2019-06-20,150.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Cambricon MLU270-S4,Cambricon,2019-06-20,70.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Intel Habana GAUDI HL-205,Intel,2019-06-18,300.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Baidu Kunlun I,Kunlunxin Baidu,2019-01-01,150.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA Tesla T4,NVIDIA,2018-09-13,70.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Google TPU v3,Google,2018-05-18,450.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA Tesla V100 DGXS 16 GB,NVIDIA,2018-03-27,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 PCIe 32 GB,NVIDIA,2018-03-27,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 DGXS 32 GB,NVIDIA,2018-03-27,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 SXM3 32 GB,NVIDIA,2018-03-27,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 SXM2 32 GB,NVIDIA,2018-03-27,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 SXM2,NVIDIA,2017-07-01,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 SXM2 16 GB,NVIDIA,2017-06-21,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla V100 PCIe 16 GB,NVIDIA,2017-06-21,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA V100,NVIDIA,2017-06-21,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+PEZY-SC2,PEZY,2017-06-01,180.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+Google TPU v2,Google,2017-05-01,280.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+MT-2000,National University of Defense Technology,2017-01-01,240.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA P40,NVIDIA,2016-09-13,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla P4,NVIDIA,2016-09-13,75.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla P100 PCIe 16GB,NVIDIA,2016-06-20,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla P100 PCIe 12GB,NVIDIA,2016-06-20,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA P100 PCIe 16GB,NVIDIA,2016-06-20,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla P100 SXM2,NVIDIA,2016-04-05,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA P100,NVIDIA,2016-04-05,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla P100 DGXS,NVIDIA,2016-04-05,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA M40,NVIDIA,2015-11-10,250.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA TESLA M60,NVIDIA,2015-08-30,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Google TPU v1,Google,2015-05-15,75.0,AI / data-center accelerator,Epoch ml_hardware,Other AI accelerator,False
+NVIDIA Tesla K80,NVIDIA,2014-11-17,300.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla K40s,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla K40t,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla K20c,NVIDIA,2012-11-12,225.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla K20X,NVIDIA,2012-11-12,235.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+NVIDIA Tesla C2050,NVIDIA,2011-07-25,238.0,AI / data-center accelerator,Epoch ml_hardware,Data-center GPU,False
+Intel Pentium III Xeon 800 2.8V,Intel,2000-01-12,25.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 800 5V-12V,Intel,2000-01-12,25.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 866 5V-12V,Intel,2000-04-10,25.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 866 2.8V,Intel,2000-04-10,25.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 700-2M 5V-12V,Intel,2000-05-22,30.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 700-2M 2.8V,Intel,2000-05-22,30.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 700 5V-12V,Intel,2000-05-22,30.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 700 2.8V,Intel,2000-05-22,29.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 933 2.8V,Intel,2000-05-24,29.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 933 5V-12V,Intel,2000-05-24,30.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 1000 5V-12V,Intel,2000-08-25,31.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 1000 2.8V,Intel,2000-08-25,30.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 900 5V-12V,Intel,2001-03-21,36.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Pentium III Xeon 900 2.8V,Intel,2001-03-21,36.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 2.0,Intel,2002-02-25,89.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 2.4,Intel,2002-04-23,89.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 2.8,Intel,2002-09-11,89.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 2.66,Intel,2002-11-18,89.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 3.06,Intel,2003-03-10,89.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 240,AMD,2003-04-22,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 242,AMD,2003-04-22,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 244,AMD,2003-04-22,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 144,AMD,2003-06-30,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 142,AMD,2003-06-30,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 840,AMD,2003-06-30,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 842,AMD,2003-06-30,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 140,AMD,2003-06-30,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 844,AMD,2003-06-30,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 246,AMD,2003-08-05,89.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 846,AMD,2003-09-09,89.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 146,AMD,2003-09-09,89.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 3.20,Intel,2003-10-06,97.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 848,AMD,2003-11-17,89.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 148,AMD,2003-11-17,89.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 248,AMD,2003-11-17,89.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 3.6,Intel,2004-06-28,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 3.4,Intel,2004-06-28,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 3.2,Intel,2004-06-28,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 3.0,Intel,2004-06-28,135.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 250,AMD,2004-12-01,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 850,AMD,2004-12-01,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 148 HE,AMD,2004-12-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 156,AMD,2005-05-01,104.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 265,AMD,2005-05-31,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 275,AMD,2005-05-31,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 270,AMD,2005-05-31,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 865 HE,AMD,2005-08-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 860 HE,AMD,2005-08-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 265 HE,AMD,2005-08-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 260 HE,AMD,2005-08-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 854,AMD,2005-08-01,92.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 254,AMD,2005-08-01,92.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 150,AMD,2005-08-02,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 175,AMD,2005-08-02,110.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 170,AMD,2005-08-02,110.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 165,AMD,2005-08-02,110.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 154,AMD,2005-08-02,104.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 152,AMD,2005-08-02,104.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 880,AMD,2005-09-26,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 875,AMD,2005-09-26,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 870,AMD,2005-09-26,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 865,AMD,2005-09-26,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 280,AMD,2005-09-26,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 180,AMD,2005-09-26,110.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon MP 7030 Dual-Core,Intel,2005-12-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon MP 7040 Dual-Core,Intel,2005-12-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon MP 7041 Dual-Core,Intel,2005-12-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 870 HE,AMD,2005-12-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon MP 7020 Dual-Core,Intel,2005-12-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2 270 HE,AMD,2005-12-01,55.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5148,Intel,2006-06-26,40.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5160,Intel,2006-06-26,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5110,Intel,2006-06-26,65.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5120,Intel,2006-06-26,65.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5130,Intel,2006-06-26,65.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5140,Intel,2006-06-26,65.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 5150,Intel,2006-06-26,65.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2216 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8210 EE,AMD,2006-08-15,45.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2218 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2218 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2220 SE (F2),AMD,2006-08-15,119.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2220 SE (F3),AMD,2006-08-15,119.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8214 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8212 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8212 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8212 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8214 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8214 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8214 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2216 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8212 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2216 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2212 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2214 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8216 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8216 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 1210 EE,AMD,2006-08-15,45.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2210 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2210 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2210 EE,AMD,2006-08-15,45.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2216 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2210 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2212 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2212 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2212 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2214 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2214 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2214 HE (F2),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2210 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8216 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8216 HE (F3),AMD,2006-08-15,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8220 SE (F3),AMD,2006-08-15,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8218 (F2),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8218 (F3),AMD,2006-08-15,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8220 SE (F2),AMD,2006-08-15,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7130M,Intel,2006-08-27,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7110M,Intel,2006-08-27,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7120N,Intel,2006-08-27,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7150N,Intel,2006-08-27,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7120M,Intel,2006-08-27,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7110N,Intel,2006-08-27,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7140M,Intel,2006-08-27,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7130N,Intel,2006-08-27,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon 7140N,Intel,2006-08-27,150.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8218 HE,AMD,2007-02-07,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2220,AMD,2007-02-07,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8220,AMD,2007-02-07,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2218 HE,AMD,2007-02-11,68.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2222 SE,AMD,2007-04-23,119.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8222 SE,AMD,2007-04-23,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2224 SE,AMD,2007-08-05,119.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2222,AMD,2007-08-05,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8222,AMD,2007-08-05,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 8224 SE,AMD,2007-08-05,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon X5365,Intel,2007-08-13,150.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 1352 (B2),AMD,2008-06-03,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon X5492,Intel,2008-09-08,150.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 2350 HE,AMD,2008-10-01,79.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5502,Intel,2009-03-30,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5504,Intel,2009-03-30,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5506,Intel,2009-03-30,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5520,Intel,2009-03-30,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5530,Intel,2009-03-30,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5540,Intel,2009-03-30,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon L5506,Intel,2009-03-30,60.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon X5560,Intel,2009-03-30,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon L5508,Intel,2009-03-30,38.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon X5570,Intel,2009-03-30,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon X5550,Intel,2009-03-30,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon L5518,Intel,2009-03-30,60.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon L5520,Intel,2009-03-30,60.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon L5530,Intel,2009-08-09,60.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6262 HE,AMD,2011-11-14,85.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6272,AMD,2011-11-14,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6274,AMD,2011-11-14,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6276,AMD,2011-11-14,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6282 SE,AMD,2011-11-14,140.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6376,AMD,2012-11-05,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6386 SE,AMD,2012-11-05,140.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6380,AMD,2012-11-05,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6378,AMD,2012-11-05,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6348,AMD,2012-11-05,115.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 6366 HE,AMD,2012-11-05,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7110X,Intel,2012-11-12,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7110P,Intel,2012-11-12,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi SE10X,Intel,2012-11-12,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 3110X,Intel,2012-11-12,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi SE10P,Intel,2012-11-12,300.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 3350 HE,AMD,2012-12-04,45.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 4310 EE,AMD,2012-12-04,35.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 4332 HE,AMD,2012-12-04,65.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 4334,AMD,2012-12-04,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 43CX EE,AMD,2012-12-04,35.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 3320 EE,AMD,2012-12-04,25.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 4376 HE,AMD,2012-12-04,65.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 43GK HE,AMD,2012-12-04,65.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 4340,AMD,2012-12-04,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 4386,AMD,2012-12-04,95.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron 3380,AMD,2012-12-04,65.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 5120D,Intel,2013-06-17,245.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 3120P,Intel,2013-06-17,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 31S1P,Intel,2013-06-17,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7120P,Intel,2013-06-17,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2630L v2,Intel,2013-09-01,60.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2430 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2420 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2692 v2,Intel,2013-09-01,100.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2695 v2,Intel,2013-09-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2630 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2620 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2609 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2603 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2470 v2,Intel,2013-09-01,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2403 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2407 v2,Intel,2013-09-01,80.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2680 v2,Intel,2013-09-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2670 v2,Intel,2013-09-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2687W v2,Intel,2013-09-01,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2697 v2,Intel,2013-09-01,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2440 v2,Intel,2013-09-01,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2690 v2,Intel,2013-09-01,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2667 v2,Intel,2013-09-01,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2650L v2,Intel,2013-09-01,70.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2650 v2,Intel,2013-09-01,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2643 v2,Intel,2013-09-01,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2640 v2,Intel,2013-09-01,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2637 v2,Intel,2013-09-01,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2660 v2,Intel,2013-09-01,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2450 v2,Intel,2013-09-01,95.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1680 v2,Intel,2013-09-10,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1620 v2,Intel,2013-09-10,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1650 v2,Intel,2013-09-10,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1607 v2,Intel,2013-09-10,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1660 v2,Intel,2013-09-10,130.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1603 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2699 v3,Intel,2014-09-08,145.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1607 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1630 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2670 v3,Intel,2014-09-08,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2648L v3,Intel,2014-09-08,75.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2696 v3,Intel,2014-09-08,145.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2649 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2650 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2650L v3,Intel,2014-09-08,65.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2652 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2658 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2695 v3,Intel,2014-09-08,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2660 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2663 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2692 v3,Intel,2014-09-08,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2667 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1620 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2673 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2690 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2675 v3,Intel,2014-09-08,110.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2687W v3,Intel,2014-09-08,160.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2680 v3,Intel,2014-09-08,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2686 v3,Intel,2014-09-08,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2643 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2685 v3,Intel,2014-09-08,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2640 v3,Intel,2014-09-08,90.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2630L v3,Intel,2014-09-08,55.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1650 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1660 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1680 v3,Intel,2014-09-08,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1681 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2698 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1686 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1691 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2603 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2637 v3,Intel,2014-09-08,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2608L v3,Intel,2014-09-08,52.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2618L v3,Intel,2014-09-08,75.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2620 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2622 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2623 v3,Intel,2014-09-08,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2628 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2628L v3,Intel,2014-09-08,75.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2629 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2697 v3,Intel,2014-09-08,145.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2630 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2609 v3,Intel,2014-09-08,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2683 v3,Intel,2014-09-08,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2666 v3,Intel,2014-11-13,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2698A v3,Intel,2014-11-18,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-4820 v3,Intel,2015-06-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-4830 v3,Intel,2015-06-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-4850 v3,Intel,2015-06-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8890 v3,Intel,2015-06-01,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8860 v3,Intel,2015-06-01,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8867 v3,Intel,2015-06-01,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8880L v3,Intel,2015-06-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8870 v3,Intel,2015-06-01,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8880 v3,Intel,2015-06-01,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-4809 v3,Intel,2015-06-01,115.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8891 v3,Intel,2015-06-01,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4640 v3,Intel,2015-06-01,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4667 v3,Intel,2015-06-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4660 v3,Intel,2015-06-01,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4655 v3,Intel,2015-06-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4650 v3,Intel,2015-06-01,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4620 v3,Intel,2015-06-01,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4648 v3,Intel,2015-06-01,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4669 v3,Intel,2015-06-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E7-8893 v3,Intel,2015-06-01,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4610 v3,Intel,2015-06-01,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-4627 v3,Intel,2015-06-01,135.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron A1120,AMD,2016-01-14,25.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron A1150,AMD,2016-01-14,32.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron A1170,AMD,2016-01-14,32.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7210,Intel,2016-06-20,215.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1660 v4,Intel,2016-06-20,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7250,Intel,2016-06-20,215.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7230F,Intel,2016-06-20,230.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7230,Intel,2016-06-20,215.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7290,Intel,2016-06-20,245.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7250F,Intel,2016-06-20,230.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7290F,Intel,2016-06-20,260.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1620 v4,Intel,2016-06-20,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1630 v4,Intel,2016-06-20,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1650 v4,Intel,2016-06-20,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-1680 v4,Intel,2016-06-20,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7210F,Intel,2016-06-20,230.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X2170,AMD,2016-09-01,25.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon E5-2699A v4,Intel,2016-10-25,145.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD Opteron X3216,AMD,2017-06-10,15.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7281,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7301,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7351,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7351P,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7401,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7401P,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7451,AMD,2017-06-29,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7501,AMD,2017-06-29,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7551P,AMD,2017-06-29,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7601,AMD,2017-06-29,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7251,AMD,2017-06-29,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7551,AMD,2017-06-29,180.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Bronze 3106,Intel,2017-07-11,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Silver 4116,Intel,2017-07-11,85.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6154,Intel,2017-07-11,200.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8180M,Intel,2017-07-11,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8180,Intel,2017-07-11,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7235,Intel,2017-12-01,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7285,Intel,2017-12-01,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Phi 7295,Intel,2017-12-01,320.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7261,AMD,2018-06-14,170.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7371,AMD,2018-11-16,170.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8276,Intel,2018-12-11,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8268,Intel,2018-12-11,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8256,Intel,2018-12-11,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8280,Intel,2018-12-11,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8260,Intel,2018-12-11,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8270,Intel,2018-12-11,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8253,Intel,2018-12-11,125.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8280M,Intel,2018-12-11,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8260M,Intel,2018-12-11,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 9221,Intel,2019-04-02,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 9222,Intel,2019-04-02,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 9242,Intel,2019-04-02,350.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 9282,Intel,2019-04-02,400.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7302P,AMD,2019-08-07,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7252,AMD,2019-08-07,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7262,AMD,2019-08-07,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7272,AMD,2019-08-07,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7282,AMD,2019-08-07,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7302,AMD,2019-08-07,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7352,AMD,2019-08-07,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7402,AMD,2019-08-07,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7232P,AMD,2019-08-07,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7452,AMD,2019-08-07,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7502,AMD,2019-08-07,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7502P,AMD,2019-08-07,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7542,AMD,2019-08-07,225.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7552,AMD,2019-08-07,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7402P,AMD,2019-08-07,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7642,AMD,2019-08-07,225.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7702,AMD,2019-08-07,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7702P,AMD,2019-08-07,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7742,AMD,2019-08-07,225.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7H12,AMD,2019-09-18,280.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7F72,AMD,2020-04-14,240.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7F52,AMD,2020-04-14,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7F32,AMD,2020-04-14,180.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5320H,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5320,Intel,2021-04-06,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Silver 4314,Intel,2021-04-06,135.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5318S,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5318N,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5318H,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5317,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5315Y,Intel,2021-04-06,140.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5320T,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5318Y,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6312U,Intel,2021-04-06,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6328HL,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6326,Intel,2021-04-06,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8358P,Intel,2021-04-06,240.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8360H,Intel,2021-04-06,225.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8360HL,Intel,2021-04-06,225.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8360Y,Intel,2021-04-06,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8362,Intel,2021-04-06,265.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8368,Intel,2021-04-06,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8368Q,Intel,2021-04-06,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8376H,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8376HL,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8380,Intel,2021-04-06,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8380H,Intel,2021-04-06,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8380HL,Intel,2021-04-06,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Silver 4309Y,Intel,2021-04-06,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Silver 4310,Intel,2021-04-06,120.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Silver 4310T,Intel,2021-04-06,105.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8358,Intel,2021-04-06,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8356H,Intel,2021-04-06,190.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8354H,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8353H,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6328H,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Silver 4316,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6330,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6330H,Intel,2021-04-06,150.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6334,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6336Y,Intel,2021-04-06,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6338N,Intel,2021-04-06,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6314U,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6338T,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6348,Intel,2021-04-06,235.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6348H,Intel,2021-04-06,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6354,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8351N,Intel,2021-04-06,225.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8352M,Intel,2021-04-06,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8352S,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8352V,Intel,2021-04-06,195.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6342,Intel,2021-04-06,230.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6346,Intel,2021-04-06,205.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7373X,AMD,2022-03-22,240.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7473X,AMD,2022-03-22,240.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7573X,AMD,2022-03-22,280.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7773X,AMD,2022-03-22,280.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9554,AMD,2022-11-10,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9654,AMD,2022-11-10,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9634,AMD,2022-11-10,290.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9454P,AMD,2022-11-10,290.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9454,AMD,2022-11-10,290.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9374F,AMD,2022-11-10,320.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9354P,AMD,2022-11-10,280.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9354,AMD,2022-11-10,280.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9334,AMD,2022-11-10,210.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9654P,AMD,2022-11-10,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9554P,AMD,2022-11-10,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9534,AMD,2022-11-10,280.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9474F,AMD,2022-11-10,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9274F,AMD,2022-11-10,320.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9254,AMD,2022-11-10,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9224,AMD,2022-11-10,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9174F,AMD,2022-11-10,320.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9124,AMD,2022-11-10,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9684X,AMD,2023-06-13,400.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9754S,AMD,2023-06-13,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9754,AMD,2023-06-13,360.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9734,AMD,2023-06-13,340.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9384X,AMD,2023-06-13,320.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 9184X,AMD,2023-06-13,320.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7303P,AMD,2023-09-05,130.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7663P,AMD,2023-09-05,240.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7303,AMD,2023-09-05,130.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7203P,AMD,2023-09-05,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7203,AMD,2023-09-05,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 7643P,AMD,2023-09-05,225.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8124PN,AMD,2023-09-18,100.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8124P,AMD,2023-09-18,125.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8324PN,AMD,2023-09-18,130.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8434PN,AMD,2023-09-18,155.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8024PN,AMD,2023-09-18,80.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8024P,AMD,2023-09-18,90.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8224P,AMD,2023-09-18,160.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8224PN,AMD,2023-09-18,120.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8324P,AMD,2023-09-18,180.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8434P,AMD,2023-09-18,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8534P,AMD,2023-09-18,200.0,Data-center CPU,chip_dataset,Server CPU,False
+AMD EPYC 8534PN,AMD,2023-09-18,175.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8593Q,Intel,2023-12-14,385.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8592V,Intel,2023-12-14,330.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8592+,Intel,2023-12-14,350.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8581V,Intel,2023-12-14,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8580,Intel,2023-12-14,350.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8568Y+,Intel,2023-12-14,350.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8558,Intel,2023-12-14,330.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8571N,Intel,2023-12-14,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8558P,Intel,2023-12-14,350.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8558U,Intel,2023-12-14,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8562Y+,Intel,2023-12-14,300.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6554S,Intel,2023-12-14,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Platinum 8570,Intel,2023-12-14,350.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6548Y+,Intel,2023-12-14,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5512U,Intel,2023-12-14,185.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5520+,Intel,2023-12-14,205.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6526Y,Intel,2023-12-14,195.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6534,Intel,2023-12-14,195.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6538N,Intel,2023-12-14,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6542Y,Intel,2023-12-14,250.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6544Y,Intel,2023-12-14,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6548N,Intel,2023-12-14,270.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 5515+,Intel,2023-12-14,165.0,Data-center CPU,chip_dataset,Server CPU,False
+Intel Xeon Gold 6530,Intel,2023-12-14,270.0,Data-center CPU,chip_dataset,Server CPU,False
+NVIDIA Tesla C870,NVIDIA,2007-05-02,171.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla C1060,NVIDIA,2009-04-09,188.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla C1080,NVIDIA,2009-04-09,188.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M2070-Q,NVIDIA,2011-07-25,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M2075,NVIDIA,2011-07-25,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M2090,NVIDIA,2011-07-25,250.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla X2090,NVIDIA,2011-07-25,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M2050,NVIDIA,2011-07-25,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla C2090,NVIDIA,2011-07-25,250.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla C2075,NVIDIA,2011-07-25,247.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M2070,NVIDIA,2011-07-25,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla C2050,NVIDIA,2011-07-25,238.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla X2070,NVIDIA,2011-07-25,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla C2070,NVIDIA,2011-07-25,238.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K10,NVIDIA,2012-05-01,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S9000,AMD,2012-08-24,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S9010,AMD,2012-08-24,200.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S7000,AMD,2012-08-27,150.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K20Xm,NVIDIA,2012-11-12,235.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K20X,NVIDIA,2012-11-12,235.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S10000,AMD,2012-11-12,375.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S10000 Passive,AMD,2012-11-12,375.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K20c,NVIDIA,2012-11-12,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K40c,NVIDIA,2013-10-08,245.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K40t,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K40st,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K40s,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K40m,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K40d,NVIDIA,2013-11-22,245.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S9050,AMD,2014-08-07,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S4000X,AMD,2014-08-07,45.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S9150,AMD,2014-08-07,235.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K8,NVIDIA,2014-09-16,100.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S9100,AMD,2014-10-02,225.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla K80,NVIDIA,2014-11-17,300.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+AMD FirePro S9170,AMD,2015-07-08,275.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M60,NVIDIA,2015-08-30,300.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M40,NVIDIA,2015-11-10,250.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M40 24 GB,NVIDIA,2015-11-10,250.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+NVIDIA Tesla M4,NVIDIA,2015-11-10,50.0,AI / data-center accelerator,chip_dataset,Data-center GPU,False
+Intel Xeon 6780E,Intel,2024-06-04,330.0,Data-center CPU,processors_extra (manual),Server CPU,True
+Intel Xeon 6980P,Intel,2024-09-24,500.0,Data-center CPU,processors_extra (manual),Server CPU,True
+AMD EPYC 9755,AMD,2024-10-10,500.0,Data-center CPU,processors_extra (manual),Server CPU,True
+AMD EPYC 9965,AMD,2024-10-10,500.0,Data-center CPU,processors_extra (manual),Server CPU,True
