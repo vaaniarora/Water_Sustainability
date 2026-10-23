@@ -171,3 +171,56 @@ What we use instead: one or two sentences, or a small inline table, of DGX rated
   - drop the uncited blogs (SERES, Servnet)?
   - drop the chart-read Vertiv 2024 values?
   - switch to the consolidated-band variant?
+
+## Caveat for Fig 2c: cabinet vs. rack, and kW per m² (Oct 19, 2026)
+
+Fig 2c is kept as-is for now (values per rack or per cabinet). Before submission:
+
+**What Fig 2c plots.** Each HPC "rack" value is Top500 system power ÷ number of cabinets. For the HPE Cray EX systems (Frontier, Aurora, El Capitan) the unit is an **EX4000 cabinet**, which is much larger than a standard rack:
+
+| | HPE Cray EX4000 cabinet | Standard 19-inch 42U rack |
+|---|---|---|
+| Width | 1,181 mm | ~600 mm |
+| Depth | 1,741 mm | ~1,000–1,200 mm |
+| Height | 2,489 mm | ~2,000 mm |
+| Footprint | ~2.1 m² | ~0.6–0.7 m² |
+| Weight | up to ~3,600 kg | ~1,000–1,500 kg loaded |
+
+An EX cabinet is ~2× the width and ~3× the floor area of a standard rack. Frontier's 74 cabinets cover ~680 m² (7,300 sq ft).
+Sources: HPE Cray Supercomputing EX QuickSpecs (hpe.com, a00094635enw); glennklockwood.com/garden/cray-ex (reproduces HPE site specs); ORNL "Super construction at super scale" (74 cabinets, ~4 t each, >7,300 sq ft); Guinness World Records (680 m²).
+
+**Effect on the values.**
+- **Per 600 mm of rack width:** Frontier's 285 kW per cabinet is ~140 kW. That matches the SERES chart, which puts Frontier, Aurora and El Capitan in the 80–160 kW band; this is the most likely reason SERES shows about half our values. Rough standard-rack equivalents (÷2 for width): Frontier ~140, Aurora ~115, El Capitan ~170 kW.
+- **Per floor area:** Frontier is ~140 kW/m². GB200 NVL72 (~132 kW in a ~0.6 × 1.07 m rack, dimensions to verify) is ~200 kW/m². So **per square metre, current AI racks are denser than the exascale HPC cabinets**, which the per-unit plot hides.
+- **Other HPC systems:** the Cray XT5/XK7 cabinets (Jaguar, Titan) and Summit's IBM racks are close to standard-rack size. BlueGene/L, BlueGene/Q and Fugaku rack dimensions haven't been checked yet.
+
+**The physically right measure is power per floor area (kW/m²).** Heat per unit of floor space is what the cooling and facility infrastructure have to handle. Per-unit power depends on how big each vendor's box is.
+
+**Options:**
+1. **Keep per-cabinet values (current).** Add a caption line saying HPE Cray EX cabinets are ~2× a standard rack's width, and give the kW/m² comparison in the text.
+2. **Convert EX systems to standard-rack equivalents (÷2 for width).** Like-for-like, but the factor is our own assumption and must be stated.
+3. **Plot kW/m² for every system.** Cleanest, but needs sourced footprints for all ~20 systems (rack or cabinet width × depth). Possibly also count CDU and service-aisle space; decide the boundary first.
+
+**Decision needed** before final figures. Current lean: option 1 now; consider option 3 (or a kW/m² sentence or table in the text) if time allows.
+
+## Note for Fig 2c: power basis differs between HPC and AI points (Oct 19, 2026)
+
+- **HPC values are measured.** Each one is Top500 power during the Linpack (HPL) benchmark ÷ cabinet count, i.e. measured average power while running HPL. That sits **below** design or peak power. For example, DCGen gives El Capitan 400 kW/rack from 34.8 MW peak ÷ 87, while ours is 340 kW from 29.6 MW HPL ÷ 87. Frontier is 317 vs. our 285, because DCGen uses the later, larger 24.6 MW configuration and counts compute racks only.
+- **AI values are mostly rated or design maximums** from vendor specs or reference architectures. They're upper bounds rather than measured draw, so relative to the HPC points they sit somewhat **high**.
+- **Caption must say both:** HPC = measured HPL power per cabinet; AI = rated or design power per rack. This adds to the cabinet-vs-rack caveat above.
+
+## Citation: DCGen (corroborating source)
+
+Gnibga, W. E. & Chien, A. A., *DCGen 1.1 Technical Report: Generating Datacenter Configurations (including IT, Power, Cooling)*, arXiv:2604.09616 (Mar 2026). University of Chicago / Argonne. Not peer-reviewed; several of its rack-density sources are press articles and blogs.
+
+Use it as a general citation for:
+- **Rack values** that corroborate ours: El Capitan 400 (peak), Frontier ~317, Aurora ~229, Fugaku 72.2, GB200 SuperPOD 120, Kyber NVL576 600 kW. It also treats HPE Cray EX cabinets as "racks", so our method has precedent.
+- **kW/m² as the density measure** (supports option 3 above): IT-floor averages of 79.8 kW/m² for AI training, 18.8 for AI inference and 10.4 for cloud in 2024; 258.5 kW/m² for AI training by 2029.
+- **Projections:** GPU racks at 600 kW (2027) and 1 MW (2029); CPU racks 18.7 → 50 → 59.4 kW (2024 → 2027 → 2029).
+- **Chip power depends on cooling:** El Capitan's MI300A has a 550 W TDP when air or liquid cooled and 760 W when liquid cooled only. Useful for the Fig 2a caption or text, alongside AMD MI350X (1000 W, air) vs. MI355X (1400 W, liquid).
+
+Caveats when citing it:
+- Its 2024 "canonical GPU rack" (158 kW) averages racks with cabinets and mixes peak with typical power.
+- Its general-purpose rack values assume full 42U racks at maximum server power; the authors note this "can be inaccurate".
+- It uses TDP, peak and maximum power interchangeably.
+- Its Colossus figure (100 kW/rack) has no primary source; see the `racks.csv` notes for xAI Colossus, where our derivation gives ~82 kW.
