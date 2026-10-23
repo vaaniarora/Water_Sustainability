@@ -1,5 +1,0 @@
-product,vendor,type,release_date,tdp_W,source_url,notes
-Intel Xeon 6780E,Intel,CPU,2024-06-04,~330,,Sierra Forest E-core; check Intel ARK
-Intel Xeon 6980P,Intel,CPU,2024-09-24,~500,,Granite Rapids-AP; check Intel ARK
-AMD EPYC 9755,AMD,CPU,2024-10-10,~500,,Turin (Zen 5); check AMD spec page
-AMD EPYC 9965,AMD,CPU,2024-10-10,~500,,Turin Dense (Zen 5c); check AMD spec page

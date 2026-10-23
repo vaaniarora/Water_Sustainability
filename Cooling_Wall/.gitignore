@@ -1,7 +1,0 @@
-# MLCommons sparse clones (re-creatable with scripts/collect_mlcommons_systems.py);
-# the parsed systems.csv / power_results.csv next to raw/ stay tracked
-Data/downloaded/mlcommons/raw/
-
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
